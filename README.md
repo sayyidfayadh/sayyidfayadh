@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @fyeedh
-- 👀 I’m interested in programming languages
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m sayyidfayadh
+- 🌱 I’m currently learning ME(AR)N
 - 💞️ I’m looking to collaborate on small projects.
 - 📫 How to reach me sayyidfayadh5@gmail.com
 
